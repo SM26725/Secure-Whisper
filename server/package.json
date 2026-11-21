@@ -15,6 +15,6 @@
     "mongodb": "^5.7.0",
     "mongoose": "^7.4.0",
     "vite_react_shadcn_ts": "file:..",
-    "ws": "^8.13.0"
+    "ws": "^8.23.0"
   }
 }
